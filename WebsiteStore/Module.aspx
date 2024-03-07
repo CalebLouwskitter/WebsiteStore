@@ -7,7 +7,7 @@
     <title>Simple store Form</title>
   
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <style>
+    <style>  <!--  W3Schools. (n.d.). --> 
         .form-container {
             background-color: grey; 
             color: white;
@@ -15,15 +15,18 @@
             border-radius: 10px;
             margin-top: 50px;
         }
+             <!--  W3Schools. (n.d.). --> 
         .form-control, .form-select, .btn-light {
             margin-bottom: 10px; 
         }
+             <!--  W3Schools. (n.d.). --> 
         .btn-light {
             width: 100%; 
         }
     </style>
 </head>
 <body>
+<!-- javatpoint. (n.d.).-->
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-md-6">
