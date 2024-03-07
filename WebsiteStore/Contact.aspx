@@ -5,15 +5,12 @@
         <h2 id="title"><%: Title %>.</h2>
         <h3>Your contact page.</h3>
         <address>
-            One Microsoft Way<br />
-            Redmond, WA 98052-6399<br />
+           1 Simple way Store <br />
+            Cape town <br />
             <abbr title="Phone">P:</abbr>
-            425.555.0100
+            +27 358 214 2941
         </address>
 
-        <address>
-            <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
-            <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
-        </address>
+        
     </main>
 </asp:Content>
