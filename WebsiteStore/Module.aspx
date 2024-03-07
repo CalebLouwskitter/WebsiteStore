@@ -53,3 +53,10 @@
     </div>
 </body>
 </html>
+<!--Reference list 
+ Bootstrap. (2024). Flex. [Online] Avaliable at: https://getbootstrap.com/docs/4.0/utilities/flex/ [Accessed: 6 March 2024]
+ W3Schools. (n.d.). CSS Layout - Horizontal & Vertical Align. [Online] Available at: https://www.w3schools.com/css/css_align.asp [Accessed 7 Mar. 2024].
+ javatpoint. (n.d.). ASP.Net Web Form Example. [Online] Available at: https://www.javatpoint.com/asp-net-web-form-example [Accessed 7 Mar. 2024].
+ WiSys. (2022). The Role of Warehousing In Supply Chain Management. [Image] Available at: https://www.wisys.com/the-role-of-warehousing-in-supply-chain-management/ [Accessed 7 Mar. 2024].
+ Keepsake Creative. (n.d.). Eco Brown Kraft Gift Bag (thick). [Image] Available at: https://keepsakecreative.co.za/eco-brown-kraft-gift-bag-thick/ [Accessed 7 Mar. 2024].
+ Printex. (n.d.). 180x30x220mm Kraft Product Box. [Image] Available at: https://printex.co.za/product/180x30x220mm-kraft-product-box/ [Accessed 7 Mar. 2024]-->
